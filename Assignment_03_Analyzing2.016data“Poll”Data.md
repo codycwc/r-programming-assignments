@@ -1,3 +1,5 @@
+[Blog Link](https://rprogrammingwcody.wordpress.com/2025/09/13/assignment-3-assignment-3-analyzing-2016-data-poll-data-in-r/)
+
 ```{r}
 library(ggplot2)
 library(tidyverse)
